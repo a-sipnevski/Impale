@@ -1,0 +1,7 @@
+development:
+  api_key: ba4e0d6b982045371dfde68b9b5fafd8
+  password: c7a28a0695533eaabc249e67cd6130bf
+  theme_id: "125710403"
+  store: impale.myshopify.com
+  bucket_size: 40
+  refill_rate: 2
